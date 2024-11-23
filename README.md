@@ -1,2 +1,1 @@
-# demo
-craeting a demo repository
+Using first time GitHub
